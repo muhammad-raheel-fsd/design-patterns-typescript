@@ -1,1 +1,1 @@
-# javascript-solid
+# typescript-design-patterns
